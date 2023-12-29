@@ -1,5 +1,15 @@
 {
 	"name": "trying-out-kaboom",
+	"description": "A modified version of the Kaboom.js template with Vite and esbuild",
+	"keywords": [
+		"kaboom",
+		"kaboom.js",
+		"kaboomjs",
+		"vite",
+		"esbuild",
+		"template",
+		"starter"
+	],
 	"scripts": {
 		"dev:serve": "vite www",
 		"dev:watch": "vite build --watch",

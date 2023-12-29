@@ -1,3 +1,10 @@
+This is a modified version of the official ```npm init kaboom mygame``` template. This version includes [Vite](https://vitejs.dev/)
+for hot reloading. You have to run the **serve** and **watch** commands in two separate terminals.
+There is also two build commands, one for windows and one for unix.
+
+Check out the [kaboom.js](https://kaboomjs.com/) docs for more info and their github
+[repository](https://github.com/replit/kaboom)!
+
 # Folder structure
 
 - `src` - source code for your kaboom project

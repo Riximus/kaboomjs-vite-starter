@@ -19,17 +19,17 @@ $ npm run dev:watch
 
 Will build and minify your js files into `www/js/main.js`:
 ```sh
-$ npm run build
+$ npm run prod:build
 ```
 
-Will build your game and package into a .zip file, you can upload to your server or itch.io / newground etc.
+Will build your game (powershell) and package into a .zip file, you can upload to your server or itch.io / newground etc.
 
 ```sh
-$ npm run prod:bundle
+$ npm run prod:bundleW
 ```
 
-If you have a linux machine please run this command to build and zip on linux:
+If you have a unix machine please run this command to build and zip on linux:
 ```sh
-$ npm run prod:bundle2
+$ npm run prod:bundleL
 ```
 
